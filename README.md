@@ -21,13 +21,11 @@
 
 ## Details
 ### 1) Game Environment
-- A virtual environment was developed to interact cat in game with human (gamer) using Unity3D, where a number of known objects here that are known to be liked by cats, which a laser pointer controlled by a human (gamer) (cat likes following laser pointer), climb up stacked boxes, cat scratchers, etc.
+- A virtual environment had been developed to interact with cat abd human (gamer) in game using Unity3D. Here are many known objects that cat is known to love such as laser pointers (this is controlled by the gamer), stacked boxes, cat scratcher, and more.
 
 
 ### 2) Action Classfication
 #### How to collect the training data which describes the action which can do with a cat ?
-- Data was collected manually using Kinect3D which can capture human action in 3D using a stereo camera. 
+- Training data was collected manually using Kinect3D which can capture human action in 3D using a stereo camera, which define 3D sequence data.
+- Using LSTM network, human's action was trained by training data, and predicted type of input action when test data is input in real time with the smallest root mean square deviation.
 
-- CatSimulator can classify human's action using sequenctial 3D data for cetain action, which is clapping, stroking, or hugging with 
-- This project was made for graudation project to get a bachelor's degree. We made behavior classifier using sequential 3D data (x, y, z axis for certain action)
-- Related language and tools: C#, Unity

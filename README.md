@@ -1,4 +1,4 @@
-# CatSimulator
+# CatSimulator (video: https://youtu.be/iwCqoYJd53U)
 
 ## Short Description
 - CatSimulator is cat-raising game which can raise a cat virtually.

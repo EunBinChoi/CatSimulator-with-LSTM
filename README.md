@@ -2,6 +2,7 @@
 
 ## Short Description
 - CatSimulator is cat-raising game which can raise a cat virtually.
+- Demo Video: https://youtu.be/iwCqoYJd53U
 
 ## Member
 - Eunbin Choi (Leader), Hyerin Joo, Younghyeon Joe

@@ -4,6 +4,16 @@
 - CatSimulator is cat-raising game which can raise a cat virtually.
 - Demo Video: https://youtu.be/iwCqoYJd53U
 
+## Technique 
+### LSTM
+- Libaray: Tensorflow
+- Language: Python
+
+### Game
+- Engine: Unity3D
+- Language: C#
+
+
 ## Member
 - Eunbin Choi (Leader), Hyerin Joo, Younghyeon Joe
 

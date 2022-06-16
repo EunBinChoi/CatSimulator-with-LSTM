@@ -5,13 +5,13 @@
 - Demo Video: https://youtu.be/iwCqoYJd53U
 
 ## Technique 
-### LSTM
-- Libaray: Tensorflow
-- Language: Python
+- LSTM (Neural Network)
+  - Libaray: Tensorflow
+  - Language: Python
 
-### Game
-- Engine: Unity3D
-- Language: C#
+- Game
+  - Engine: Unity3D
+  - Language: C#
 
 
 ## Member

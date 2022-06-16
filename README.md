@@ -1,7 +1,7 @@
-# CatSimulator
+# Cat-Raising Game
 
 ## Short Description
-- CatSimulator is cat-raising game which can raise a cat virtually.
+- Cat-raising game is proposed to able to raise a cat virtually.
 - Demo Video: https://youtu.be/iwCqoYJd53U
 
 ## Technique 
